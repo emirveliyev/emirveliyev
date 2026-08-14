@@ -1,7 +1,161 @@
-![Header](./banner.png)
+<div align="center">
 
-<h3 align="center">Технологии которые я использую:</h3>
-<h4 align="center">При нажатии на иконку вы попадете на официальную документацию и сможете узнать для чего используется эта технология.</h4>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/golang" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=golang" alt="GO" width="40" height="40"/> </a></p>
+<img src="./banner.png" alt="Banner" width="100%">
 
-<div align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;"> </div>
+# Rustem Emirveliyev
+
+<p>
+  <a href="mailto:rustememirveliyev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rustememirveliyev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+</div>
+
+## Технологии
+
+### Языки
+
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript">
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://skillicons.dev/icons?i=typescript" width="45" alt="TypeScript">
+  </a>
+  <a href="https://go.dev/doc/">
+    <img src="https://skillicons.dev/icons?i=go" width="45" alt="Go">
+  </a>
+  <a href="https://www.php.net/docs.php">
+    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP">
+  </a>
+  <a href="https://www.gnu.org/software/bash/manual/">
+    <img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash">
+  </a>
+</p>
+
+### Frontend
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS">
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React">
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" width="45" alt="Vue">
+  </a>
+  <a href="https://tailwindcss.com/docs">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS">
+  </a>
+  <a href="https://getbootstrap.com/docs/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap">
+  </a>
+</p>
+
+### Backend
+
+<p>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://skillicons.dev/icons?i=django" width="45" alt="Django">
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" alt="FastAPI">
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask">
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="45" alt="NestJS">
+  </a>
+  <a href="https://nodejs.org/docs/latest/api/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js">
+  </a>
+</p>
+
+### Базы данных
+
+<p>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL">
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB">
+  </a>
+  <a href="https://redis.io/docs/">
+    <img src="https://skillicons.dev/icons?i=redis" width="45" alt="Redis">
+  </a>
+  <a href="https://www.sqlite.org/docs.html">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite">
+  </a>
+</p>
+
+### Инструменты
+
+<p>
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git">
+  </a>
+  <a href="https://docs.github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker">
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux">
+  </a>
+  <a href="https://nginx.org/en/docs/">
+    <img src="https://skillicons.dev/icons?i=nginx" width="45" alt="Nginx">
+  </a>
+</p>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+
+</div>
+
+---
+
+## Контакты
+
+<p>
+  <a href="mailto:rustememirveliyev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rustememirveliyev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+<br><br>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45" alt="Sunglasses">
+
+</div>
