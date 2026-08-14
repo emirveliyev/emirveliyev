@@ -1,32 +1,20 @@
 <div align="center">
-
 <img src="./banner.png" alt="Rustem Emirveliyev" width="100%">
-
 <br>
-
 # Rustem Emirveliyev
-
 <a href="https://github.com/emirveliyev">
   <img src="https://img.shields.io/badge/GitHub-emirveliyev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="mailto:rustememirveliyev@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=emirveliyev&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
-
 </div>
-
 ---
-
 ## Technologies
-
 <div align="center">
-
 ### Languages
-
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python">
 </a>
@@ -45,11 +33,8 @@
 <a href="https://www.gnu.org/software/bash/manual/">
 <img src="https://skillicons.dev/icons?i=bash" width="52" alt="Bash">
 </a>
-
 <br><br>
-
 ### Frontend
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML">
 </a>
@@ -68,11 +53,8 @@
 <a href="https://getbootstrap.com/docs/">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="52" alt="Bootstrap">
 </a>
-
 <br><br>
-
 ### Backend
-
 <a href="https://www.djangoproject.com/">
 <img src="https://skillicons.dev/icons?i=django" width="52" alt="Django">
 </a>
@@ -88,11 +70,8 @@
 <a href="https://nodejs.org/docs/latest/api/">
 <img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js">
 </a>
-
 <br><br>
-
 ### Databases
-
 <a href="https://www.postgresql.org/docs/">
 <img src="https://skillicons.dev/icons?i=postgres" width="52" alt="PostgreSQL">
 </a>
@@ -108,11 +87,8 @@
 <a href="https://www.sqlite.org/docs.html">
 <img src="https://skillicons.dev/icons?i=sqlite" width="52" alt="SQLite">
 </a>
-
 <br><br>
-
 ### Tools
-
 <a href="https://git-scm.com/doc">
 <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git">
 </a>
@@ -128,61 +104,4 @@
 <a href="https://nginx.org/en/docs/">
 <img src="https://skillicons.dev/icons?i=nginx" width="52" alt="Nginx">
 </a>
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/emirveliyev">
-<img src="https://github-readme-stats.vercel.app/api?username=emirveliyev&show_icons=true&hide_border=true&theme=transparent" width="49%" alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/emirveliyev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirveliyev&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Top Languages">
-</a>
-
-<br><br>
-
-<a href="https://github.com/emirveliyev">
-<img src="https://streak-stats.demolab.com?user=emirveliyev&theme=transparent&hide_border=true" width="70%" alt="GitHub Streak">
-</a>
-
-</div>
-
----
-
-## Contributions
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=emirveliyev&theme=github-compact&hide_border=true&area=true"
-width="100%"
-alt="GitHub Contribution Activity"
->
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:rustememirveliyev@gmail.com">
-<img src="https://img.shields.io/badge/rustememirveliyev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<img
-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
-width="55"
-alt="Sunglasses"
->
-
 </div>
